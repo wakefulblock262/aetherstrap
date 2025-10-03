@@ -1,2 +1,3 @@
 # phoebestrap
-Alternative bootstrapper for Roblox made in NULL
+Alternative bootstrapper for Roblox made in C++ for better performance and customizability, meant to be 'different' than the forked Bloxstraps. 
+  
